@@ -1,5 +1,4 @@
 # 💰 API – CONVERSOR DE MOEDAS
-
 ![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-brightgreen)
 ![Java](https://img.shields.io/badge/Java-24-blue)
 ![API REST](https://img.shields.io/badge/API-REST-blue)
@@ -9,7 +8,6 @@
 ## 🚀 Sobre a aplicação
 Esta é uma API simples e eficiente para **conversão de moedas**, permitindo que você obtenha taxas de câmbio atualizadas e converta valores entre diferentes moedas globais. Ideal para aplicações financeiras, e-commerce, calculadoras de viagem ou qualquer sistema que necessite de informações de câmbio precisas e em tempo real.
 Utiliza dados de cotação de uma **API externa confiável** (substituir o link de exemplo pela API real que você usa) para garantir a precisão das conversões.
-
 
 ---
 
